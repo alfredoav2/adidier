@@ -1,0 +1,27 @@
+﻿  Primitivas basicas.cpp
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(281,38): warning C4244:  'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(281,35): warning C4244:  'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(297,38): warning C4244:  'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(297,35): warning C4244:  'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(251,11): warning C4101:  'i': variable local sin referencia
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(318,44): warning C4244:  'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(318,36): warning C4244:  'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(319,45): warning C4244:  'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(319,37): warning C4244:  'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(320,46): warning C4244:  'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(320,37): warning C4244:  'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(321,45): warning C4244:  'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(321,36): warning C4244:  'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(322,44): warning C4244:  'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(322,36): warning C4244:  'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(323,45): warning C4244:  'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(323,37): warning C4244:  'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(324,46): warning C4244:  'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(324,37): warning C4244:  'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(325,45): warning C4244:  'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(325,36): warning C4244:  'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(332,53): warning C4244:  '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(333,53): warning C4244:  '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(369,21): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(370,10): warning C4018:  '<': no coinciden signed/unsigned
+  Primitivas basicas.vcxproj -> C:\Users\Usuario\source\repos\Primitivas basicas\Debug\Primitivas basicas.exe
