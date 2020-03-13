@@ -1,0 +1,22 @@
+﻿  Primitivas basicas.cpp
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(281,38): warning C4244:  'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(281,35): warning C4244:  'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(297,38): warning C4244:  'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(297,35): warning C4244:  'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(251,11): warning C4101:  'i': variable local sin referencia
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(440,36): warning C4305:  '+=': truncamiento de 'double' a 'float'
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(445,27): warning C4244:  'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(446,27): warning C4244:  'argumento': conversión de 'float' a 'const unsigned int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(449,29): warning C4244:  'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(455,49): warning C4244:  'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(455,34): warning C4244:  'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(457,20): warning C4018:  '<': no coinciden signed/unsigned
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(437,12): warning C4101:  'yf': variable local sin referencia
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(437,8): warning C4101:  'xf': variable local sin referencia
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(436,11): warning C4101:  'y': variable local sin referencia
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(436,8): warning C4101:  'x': variable local sin referencia
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(501,36): warning C4305:  '+=': truncamiento de 'double' a 'float'
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(502,11): warning C4244:  'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(512,37): warning C4244:  'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Primitivas basicas\Primitivas basicas\Primitivas basicas.cpp(512,34): warning C4244:  'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  Primitivas basicas.vcxproj -> C:\Users\Usuario\source\repos\Primitivas basicas\Debug\Primitivas basicas.exe
